@@ -1,3 +1,8 @@
+clase5/trabajo_practico_2/x_test.csv
+clase5/trabajo_practico_2/x_train.csv
+clase5/trabajo_practico_2/y_train.csv
+clase5/trabajo_practico_2/y_test.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
