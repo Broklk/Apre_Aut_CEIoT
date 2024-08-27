@@ -2,6 +2,13 @@ clase5/trabajo_practico_2/x_test.csv
 clase5/trabajo_practico_2/x_train.csv
 clase5/trabajo_practico_2/y_train.csv
 clase5/trabajo_practico_2/y_test.csv
+clase5/trabajo_practico_2/best_model.pkl
+
+clase7/trabajo_practico_3/x_test.csv
+clase7/trabajo_practico_3/x_train.csv
+clase7/trabajo_practico_3/y_train.csv
+clase7/trabajo_practico_3/y_test.csv
+clase7/trabajo_practico_3/random_forest_classifier.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
